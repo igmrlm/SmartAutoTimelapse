@@ -1,3 +1,5 @@
+create_batch.py
+<br>
 This code is a Python script that creates a batch file called "timelapse.bat". The batch file will contain a series of commands that can be used to create a timelapse video from a series of input video files.
 <br>
 The script begins by importing three libraries: os, subprocess, and argparse. These libraries are used for working with the operating system, running external programs, and parsing command-line arguments, respectively.
@@ -92,7 +94,7 @@ Finally, the script closes the video file, the text file, and the GUI window (if
 <br>
   
 <br>
-Ffmpegautoconcat.py
+ffmpegautoconcat.py
 <br>
 The script starts by parsing the command-line arguments using the argparse module. It has three arguments:
 <br>
