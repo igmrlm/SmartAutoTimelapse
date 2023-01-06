@@ -1,0 +1,15 @@
+This code makes use of Python, FFmpeg, and OpenCV in this tutorial and is subject to their respective licenses. 
+<br>
+Python is licensed under the Python Software Foundation License, which can be found at: https://docs.python.org/3/license.html. 
+<br>
+FFmpeg is licensed under the GNU Lesser General Public License, which can be found at: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html. 
+<br>
+OpenCV is licensed under the BSD 3-Clause License, which can be found at: https://opencv.org/license/. By using these software tools in this tutorial, you agree to be bound by their respective licenses.
+<br>
+This code was originally generated with assistance from the OpenAI chatbot GPT-3, but has since been heavily modified by me to better fit the needs of my case use and significant troubleshooting and re-rewriting to make it actually work.
+<br>
+Please note that the use of OpenAI generated content is subject to the OpenAI API terms of use, which can be found at: https://beta.openai.com/docs/api-terms/terms. By using this script, you agree to these terms and the following:
+<br>
+Please be aware that this script is provided "as is" without warranty of any kind, express or implied. I make no representations or warranties of any kind with respect to this script or its use, and I shall not be liable for any damages of any kind arising from the use of this script.
+<br>
+By using this script, you agree to assume all responsibility for any damages or losses that may occur as a result of its use.
