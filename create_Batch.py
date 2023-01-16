@@ -39,7 +39,8 @@ print("\nCreate Batch: speedx (Timelapse Speed Multiplier setting)")
 print(speedx)
 
 # Get a list of all the mp4 files in the input folder
-mp4_files = [f for f in os.listdir(input_folder) if f.lower().endswith('.mp4')]
+
+mp4_files = [f.name for f in sorted(os.scandir(input_folder), key=lambda f: f.stat().st_ctime) if f.name.lower().endswith('.mp4')]
 
 # Write the list of files  and the input folder to the console for debugging purposes
 print("\n")
